@@ -1,0 +1,14 @@
+C:\Users\ACER\Downloads\Lab01_ThongTinCaNhan\Lab01_ThongTinCaNhan\bin\Debug\net8.0-windows\Lab01_ThongTinCaNhan.exe
+C:\Users\ACER\Downloads\Lab01_ThongTinCaNhan\Lab01_ThongTinCaNhan\bin\Debug\net8.0-windows\Lab01_ThongTinCaNhan.deps.json
+C:\Users\ACER\Downloads\Lab01_ThongTinCaNhan\Lab01_ThongTinCaNhan\bin\Debug\net8.0-windows\Lab01_ThongTinCaNhan.runtimeconfig.json
+C:\Users\ACER\Downloads\Lab01_ThongTinCaNhan\Lab01_ThongTinCaNhan\bin\Debug\net8.0-windows\Lab01_ThongTinCaNhan.dll
+C:\Users\ACER\Downloads\Lab01_ThongTinCaNhan\Lab01_ThongTinCaNhan\bin\Debug\net8.0-windows\Lab01_ThongTinCaNhan.pdb
+C:\Users\ACER\Downloads\Lab01_ThongTinCaNhan\Lab01_ThongTinCaNhan\obj\Debug\net8.0-windows\Lab01_ThongTinCaNhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Lab01_ThongTinCaNhan\Lab01_ThongTinCaNhan\obj\Debug\net8.0-windows\Lab01_ThongTinCaNhan.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Lab01_ThongTinCaNhan\Lab01_ThongTinCaNhan\obj\Debug\net8.0-windows\Lab01_ThongTinCaNhan.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Lab01_ThongTinCaNhan\Lab01_ThongTinCaNhan\obj\Debug\net8.0-windows\Lab01_ThongTinCaNhan.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Lab01_ThongTinCaNhan\Lab01_ThongTinCaNhan\obj\Debug\net8.0-windows\Lab01_ThongTinCaNhan.dll
+C:\Users\ACER\Downloads\Lab01_ThongTinCaNhan\Lab01_ThongTinCaNhan\obj\Debug\net8.0-windows\refint\Lab01_ThongTinCaNhan.dll
+C:\Users\ACER\Downloads\Lab01_ThongTinCaNhan\Lab01_ThongTinCaNhan\obj\Debug\net8.0-windows\Lab01_ThongTinCaNhan.pdb
+C:\Users\ACER\Downloads\Lab01_ThongTinCaNhan\Lab01_ThongTinCaNhan\obj\Debug\net8.0-windows\Lab01_ThongTinCaNhan.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Lab01_ThongTinCaNhan\Lab01_ThongTinCaNhan\obj\Debug\net8.0-windows\ref\Lab01_ThongTinCaNhan.dll
