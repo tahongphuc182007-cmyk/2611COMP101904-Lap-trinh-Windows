@@ -1,0 +1,14 @@
+C:\Users\ACER\Downloads\BTLOP_16092026\BTLOP\16092026\bin\Debug\net8.0\QuanLyNhanVien.exe
+C:\Users\ACER\Downloads\BTLOP_16092026\BTLOP\16092026\bin\Debug\net8.0\QuanLyNhanVien.deps.json
+C:\Users\ACER\Downloads\BTLOP_16092026\BTLOP\16092026\bin\Debug\net8.0\QuanLyNhanVien.runtimeconfig.json
+C:\Users\ACER\Downloads\BTLOP_16092026\BTLOP\16092026\bin\Debug\net8.0\QuanLyNhanVien.dll
+C:\Users\ACER\Downloads\BTLOP_16092026\BTLOP\16092026\bin\Debug\net8.0\QuanLyNhanVien.pdb
+C:\Users\ACER\Downloads\BTLOP_16092026\BTLOP\16092026\obj\Debug\net8.0\QuanLyNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\BTLOP_16092026\BTLOP\16092026\obj\Debug\net8.0\QuanLyNhanVien.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\BTLOP_16092026\BTLOP\16092026\obj\Debug\net8.0\QuanLyNhanVien.AssemblyInfo.cs
+C:\Users\ACER\Downloads\BTLOP_16092026\BTLOP\16092026\obj\Debug\net8.0\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\BTLOP_16092026\BTLOP\16092026\obj\Debug\net8.0\QuanLyNhanVien.dll
+C:\Users\ACER\Downloads\BTLOP_16092026\BTLOP\16092026\obj\Debug\net8.0\refint\QuanLyNhanVien.dll
+C:\Users\ACER\Downloads\BTLOP_16092026\BTLOP\16092026\obj\Debug\net8.0\QuanLyNhanVien.pdb
+C:\Users\ACER\Downloads\BTLOP_16092026\BTLOP\16092026\obj\Debug\net8.0\QuanLyNhanVien.genruntimeconfig.cache
+C:\Users\ACER\Downloads\BTLOP_16092026\BTLOP\16092026\obj\Debug\net8.0\ref\QuanLyNhanVien.dll
