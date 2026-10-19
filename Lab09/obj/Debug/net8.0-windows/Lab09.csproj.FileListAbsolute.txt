@@ -1,0 +1,15 @@
+C:\Users\ACER\Downloads\Lab09\Lab09\bin\Debug\net8.0-windows\Lab09.exe
+C:\Users\ACER\Downloads\Lab09\Lab09\bin\Debug\net8.0-windows\Lab09.deps.json
+C:\Users\ACER\Downloads\Lab09\Lab09\bin\Debug\net8.0-windows\Lab09.runtimeconfig.json
+C:\Users\ACER\Downloads\Lab09\Lab09\bin\Debug\net8.0-windows\Lab09.dll
+C:\Users\ACER\Downloads\Lab09\Lab09\bin\Debug\net8.0-windows\Lab09.pdb
+C:\Users\ACER\Downloads\Lab09\Lab09\obj\Debug\net8.0-windows\Lab09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Lab09\Lab09\obj\Debug\net8.0-windows\Lab09.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Lab09\Lab09\obj\Debug\net8.0-windows\Lab09.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Lab09\Lab09\obj\Debug\net8.0-windows\Lab09.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Lab09\Lab09\obj\Debug\net8.0-windows\Lab09.dll
+C:\Users\ACER\Downloads\Lab09\Lab09\obj\Debug\net8.0-windows\refint\Lab09.dll
+C:\Users\ACER\Downloads\Lab09\Lab09\obj\Debug\net8.0-windows\Lab09.pdb
+C:\Users\ACER\Downloads\Lab09\Lab09\obj\Debug\net8.0-windows\Lab09.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Lab09\Lab09\obj\Debug\net8.0-windows\ref\Lab09.dll
+C:\Users\ACER\Downloads\Lab09\Lab09\obj\Debug\net8.0-windows\Lab09.csproj.Up2Date

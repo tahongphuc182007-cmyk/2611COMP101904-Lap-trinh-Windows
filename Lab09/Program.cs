@@ -1,0 +1,11 @@
+namespace COMP1019_Lab09_StudentCard;
+
+static class Program
+{
+    [STAThread]
+    static void Main()
+    {
+        ApplicationConfiguration.Initialize();
+        Application.Run(new FrmStudentCard());
+    }
+}
