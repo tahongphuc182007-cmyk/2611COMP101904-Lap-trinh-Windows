@@ -6,11 +6,6 @@
 - MSSV: [điền MSSV]
 - Lớp: [điền lớp]
 
-## Chạy chương trình
-- Yêu cầu: Windows, .NET 8 SDK, Visual Studio 2022 trở lên.
-- Mở `Lab09.slnx` (hoặc `Lab09.csproj`) bằng Visual Studio rồi nhấn F5, hoặc chạy `dotnet run` trong thư mục project. File `.slnx` cần Visual Studio 2022 phiên bản 17.13 trở lên.
-- Muốn thử in mà không có máy in thật, chọn máy in "Microsoft Print to PDF" trong PrintDialog.
-
 ## Cách sử dụng
 1. Nhập mã sinh viên, họ tên, ngày sinh, giới tính, lớp, khoa, khóa học ở vùng bên trái.
 2. Nhấn "Chọn ảnh" để chọn ảnh JPG, JPEG, PNG hoặc BMP.
