@@ -30,11 +30,6 @@ Quan hệ: một khoa có nhiều lớp, một lớp có nhiều sinh viên, và
 ## Dữ liệu mẫu
 2 khoa, 3 lớp, 7 sinh viên, 4 môn học, 8 kết quả, 2 tài khoản. SV007 cố ý chưa có điểm để thử câu 6 (xóa sinh viên chưa có điểm).
 
-## Kết quả mong đợi của một số truy vấn
-- Câu 8 (điểm trung bình): SV001 = 8.00, SV002 = 8.50, SV003 = 6.50, SV004 = 7.00, SV005 = 8.00, SV006 = 7.80.
-- Câu 9 và câu 10 (sau khi câu 6 đã xóa SV007): mỗi lớp CNTT01, CNTT02, SPTIN01 có 2 sinh viên.
-- Câu 11 và câu 12: SQL Server báo lỗi ràng buộc (khóa ngoại và CHECK điểm), script in dòng "ĐÚNG ..." ở tab Messages. Hai dòng đếm cuối cùng đều bằng 0.
-
 ## Ảnh chụp kết quả
 Lưu ảnh chụp màn hình vào thư mục `images/` với đúng tên file dưới đây.
 
