@@ -2,9 +2,6 @@
 
 Ứng dụng Windows Forms quản lý sản phẩm, dữ liệu lưu trong bộ nhớ (BindingList + BindingSource).
 
-## Chạy chương trình
-- Yêu cầu: Windows, .NET 8 SDK, Visual Studio 2022 trở lên.
-- Mở `Lab06.csproj` bằng Visual Studio rồi nhấn F5, hoặc chạy `dotnet run` trong thư mục project.
 
 ## Chức năng
 - Load form: nạp 4 loại sản phẩm vào ComboBox và 3 sản phẩm mẫu vào DataGridView.
