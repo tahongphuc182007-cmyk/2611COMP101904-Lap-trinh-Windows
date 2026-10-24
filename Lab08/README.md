@@ -5,11 +5,6 @@
 - Họ tên: [điền họ tên]
 - MSSV: [điền MSSV]
 - Lớp: [điền lớp]
-
-## Chạy chương trình
-- Yêu cầu: Windows, .NET 8 SDK, Visual Studio 2022 trở lên.
-- Mở `Lab08.slnx` (hoặc `Lab08.csproj`) bằng Visual Studio rồi nhấn F5, hoặc chạy `dotnet run` trong thư mục project. File `.slnx` cần Visual Studio 2022 phiên bản 17.13 trở lên.
-
 ## Cách sử dụng
 1. Chọn chế độ vẽ trong ComboBox: Pen, Line, Rectangle hoặc Ellipse.
 2. Chọn độ dày nét từ 1 đến 20 bằng ô số.
@@ -25,8 +20,6 @@
 - `Pen` và `SolidBrush` tự tạo đều dùng `using`. Canvas dùng `DoubleBufferedPanel` để không bị nhấp nháy.
 
 ## Hình ảnh minh họa
-Lưu ảnh chụp màn hình vào thư mục `images/` với đúng tên file dưới đây.
-
 Giao diện khi mở chương trình:
 
 ![Giao diện chính](images/01-giao-dien.png)
