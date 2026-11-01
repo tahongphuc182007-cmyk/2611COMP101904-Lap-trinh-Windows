@@ -1,0 +1,14 @@
+C:\Users\ACER\Downloads\Phuc\bin\Debug\net8.0\Lab03_QuanLySinhVienOOP.exe
+C:\Users\ACER\Downloads\Phuc\bin\Debug\net8.0\Lab03_QuanLySinhVienOOP.deps.json
+C:\Users\ACER\Downloads\Phuc\bin\Debug\net8.0\Lab03_QuanLySinhVienOOP.runtimeconfig.json
+C:\Users\ACER\Downloads\Phuc\bin\Debug\net8.0\Lab03_QuanLySinhVienOOP.dll
+C:\Users\ACER\Downloads\Phuc\bin\Debug\net8.0\Lab03_QuanLySinhVienOOP.pdb
+C:\Users\ACER\Downloads\Phuc\obj\Debug\net8.0\Lab03_QuanLySinhVienOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Phuc\obj\Debug\net8.0\Lab03_QuanLySinhVienOOP.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Phuc\obj\Debug\net8.0\Lab03_QuanLySinhVienOOP.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Phuc\obj\Debug\net8.0\Lab03_QuanLySinhVienOOP.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Phuc\obj\Debug\net8.0\Lab03_QuanLySinhVienOOP.dll
+C:\Users\ACER\Downloads\Phuc\obj\Debug\net8.0\refint\Lab03_QuanLySinhVienOOP.dll
+C:\Users\ACER\Downloads\Phuc\obj\Debug\net8.0\Lab03_QuanLySinhVienOOP.pdb
+C:\Users\ACER\Downloads\Phuc\obj\Debug\net8.0\Lab03_QuanLySinhVienOOP.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Phuc\obj\Debug\net8.0\ref\Lab03_QuanLySinhVienOOP.dll
