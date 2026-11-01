@@ -2,9 +2,9 @@
 
 Module Báo cáo danh sách sinh viên theo lớp bằng C# WinForms và LINQ. Dữ liệu mẫu nằm trong bộ nhớ (12 sinh viên, 3 lớp), không cần database.
 
-- Họ tên: [điền họ tên]
-- MSSV: [điền MSSV]
-- Lớp: [điền lớp]
+- Họ tên: Tạ Hồng Phúc
+- MSSV: 51.01.104.076
+- Lớp: 51.01.CNTT.A
 
 ## Cách chạy
 - Yêu cầu: Windows, .NET 8 SDK, Visual Studio 2022 trở lên.
